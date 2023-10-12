@@ -1,0 +1,8 @@
+NPINICIAL= 1 |  NPFINAL = 5 |  actual=3  | nodobuscado= 3  | econtrado=0 | anterior=2 
+
+1 -> 2 -> 3->  4 ->5 ->NULL     
+
+________________________________________________________________________________
+NPINICIAL= 1 |  NPFINAL = 5 |  aux=3  | nodobuscado1= 3  | econtrado1=0 |  
+
+1 -> 2 -> 2->  4 ->5 ->NULL     
