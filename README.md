@@ -1,6 +1,6 @@
 # Programas en C
 
-Este repositorio alberga una colección de programas en el lenguaje de programación C que he desarrollado durante mi tiempo en la universidad. Estos programas representan una variedad de proyectos, ejercicios y ![Uploading logo-vertical.svg…]()
+Este repositorio alberga una colección de programas en el lenguaje de programación C que he desarrollado durante mi tiempo en la universidad. Estos programas representan una variedad de proyectos, ejercicios y
 asignaciones que he completado como parte de mi formación en informática. 
 
 ## Requisitos
