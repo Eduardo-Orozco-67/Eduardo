@@ -1,6 +1,7 @@
-# Repositorio de Programas en C de la Universidad
+# Programas en C
 
-Este repositorio alberga una colección de programas en el lenguaje de programación C que he desarrollado durante mi tiempo en la universidad. Estos programas representan una variedad de proyectos, ejercicios y asignaciones que he completado como parte de mi formación en informática. 
+Este repositorio alberga una colección de programas en el lenguaje de programación C que he desarrollado durante mi tiempo en la universidad. Estos programas representan una variedad de proyectos, ejercicios y ![Uploading logo-vertical.svg…]()
+asignaciones que he completado como parte de mi formación en informática. 
 
 ## Requisitos
 
@@ -15,7 +16,7 @@ Este repositorio está bajo la licencia [MIT](LICENSE) - consulta el archivo LIC
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia relacionada con estos programas o este repositorio en general, no dudes en ponerse en contacto conmigo. Puedes encontrar mis datos de contacto en el dashboard de mi perfil o  [GitHub](https://github.com/Eduardo-Orozco-67).
+Si tienes alguna pregunta o sugerencia relacionada con estos programas o este repositorio en general, no dudes en ponerse en contacto conmigo. Puedes encontrar mis datos de contacto en el dashboard de mi perfil  [Eduardo](https://github.com/Eduardo-Orozco-67).
 
 ¡Gracias por visitar este repositorio!
 
